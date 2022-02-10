@@ -1,0 +1,1 @@
+Student courses and grades management CLI application. The data is read and written in .csv files.

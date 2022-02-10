@@ -1,2 +1,1 @@
-# studentRegister
-course project on c++
+## Projects files for the ICE1-2004 course (Object Oriented Programming/C++).
